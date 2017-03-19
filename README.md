@@ -1,4 +1,3 @@
 # hello-world
 Just another repository
-Name Chalobon Denninnart 
-Student number 592115008
+System.out.println("Helo World");
